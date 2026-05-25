@@ -1,5 +1,15 @@
 # 60SEPP — Security Engineering Projects Portfolio
 
+<div align="center">
+  <img src="assets/logo.svg" width="200" height="200" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-17-blue?style=flat-square" alt="C++">
+  <img src="https://img.shields.io/badge/Kali-Linux-ff4444?style=flat-square" alt="Kali">
+  <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
+</p>
+
 Private collection of offensive security tools built from scratch for authorized pentesting, CTF competitions, and security research. Each project includes a step-by-step BUILD_GUIDE explaining how and why it was made.
 
 ## Projects
