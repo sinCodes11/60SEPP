@@ -1,8 +1,13 @@
-# 60SEPP — Security Engineering Projects Portfolio
-
 <div align="center">
-  <img src="assets/banner.svg" width="100%" />
+  <img src="assets/banner.svg" width="100%"/>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-17-blue?style=flat-square" alt="C%2B%2B">
+  <img src="https://img.shields.io/badge/focus-offensive%20%2F%20authorized-ff4444?style=flat-square" alt="focus">
+  <img src="https://img.shields.io/badge/target-CTF-ff8800?style=flat-square" alt="target">
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-17-blue?style=flat-square" alt="C++">
